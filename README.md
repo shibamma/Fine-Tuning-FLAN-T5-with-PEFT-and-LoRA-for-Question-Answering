@@ -4,3 +4,5 @@ Implemented PEFT (Parameter-Efficient Fine-Tuning) pipeline using Hugging Face T
 Evaluated model performance using ROUGE metrics, showing measurable improvements over the base model in ROUGE-1 (+0.05), ROUGE-2 (+0.04), and ROUGE-L (+0.06).
 Designed and pre-processed a custom context-based QA dataset, tokenized using a prompt-based approach suitable for sequence-to-sequence learning.
 Conducted qualitative and quantitative analysis of model outputs, validating LoRA’s effectiveness in resource-constrained environments.
+
+Model link: https://huggingface.co/google/flan-t5-base/tree/main
